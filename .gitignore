@@ -1,0 +1,6 @@
+node modules
+dist
+.env
+.env.local
+.DS_local
+Thumbs.db
